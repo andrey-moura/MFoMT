@@ -1,0 +1,72 @@
+Como Cozinhar
+Interaja com a Cozinha
+[
+Você terá três opções na
+Tela de Mensagem.
+Opção "Cozinhar"
+¨Abre a Tela de Utensílios
+
+Opção "Ver Receitas"
+¨Abre a Lista de Receitas
+
+A opção "Sair" fecha!
+
+
+™Lista de Receitas 
+Controles
+Setas
+  Vertical: Move o cursor.
+  Horizontal: Passa páginas.
+Botão A: Seleciona o prato
+Botão B: Volta
+
+[A próxima Tela:
+
+™Tela de Confirmação 
+Diferentes mensagens são
+mostradas dependendo dos
+ingredientes selecionados.
+Se você tem todos os
+ingredientes:
+  "Seguir a receita"
+¨Faz a receita!
+  "Improvisar receita"
+¨Abre a Tela de Utensílios
+  "Fazer outra receita"
+¨Volta para as receitas.
+
+
+Se você não tem todos os
+ingredientes para a receita:
+  "Improvisar receita"
+¨Abre a Tela de Utensílios
+  "Fazer outra receita"
+¨Volta para as receitas.
+
+
+™Tela de Utensílios
+Controles
+Setas: Movem o cursor.
+Botão A: Seleciona/Cancela
+Botão B: Cancela seleção e
+  volta para a janela
+  anterior.
+Start: Continua.
+
+[A próxima Tela:
+
+Você terá três opções na
+Tela de Mensagem.
+
+"Fazer Receita"
+¨Faz a receita com os
+  ingredientes e utensílios
+  selecionados.
+
+"Mudar Ingredientes"
+¨Volta para Tela de 
+  Ingredientes.
+
+"Mudar Utensílios"
+¨Volta para a Tela de
+  Utensílios
