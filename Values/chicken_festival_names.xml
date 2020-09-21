@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Values>
+  <Value name="Name1" offset="0x00110671" type="String">Sabre</Value>
+  <Value name="Name2" offset="0x0011067E" type="String">Renan</Value>
+  <Value name="Name3" offset="0x0011068B" type="String">Biolobo</Value>
+  <Value name="Name4" offset="0x00110698" type="String">Ossos</Value>
+  <Value name="Name5" offset="0x001106A5" type="String">Sargento</Value>
+  <Value name="Name6" offset="0x001106B2" type="String">Falcão</Value>
+  <Value name="Name7" offset="0x001106BF" type="String">Samus</Value>
+  <Value name="Name8" offset="0x001106CC" type="String">Bruno</Value>
+  <Value name="Name9" offset="0x001106D9" type="String">Sheila</Value>
+  <Value name="Name10" offset="0x001106E6" type="String">Buzina</Value>
+  <Value name="Name11" offset="0x001106F3" type="String">Júnior</Value>
+  <Value name="Name12" offset="0x00110700" type="String">Barão</Value>
+  <Value name="Name13" offset="0x0011070D" type="String">Rei</Value>
+  <Value name="Name14" offset="0x0011071A" type="String">César</Value>
+  <Value name="Name15" offset="0x00110727" type="String">Melody</Value>
+  <Value name="Name16" offset="0x00110734" type="String">Espiga</Value>
+  <Value name="Name17" offset="0x00110741" type="String">Grana</Value>
+  <Value name="Name18" offset="0x0011074E" type="String">Leão</Value>
+  <Value name="Name19" offset="0x0011075B" type="String">Lance</Value>
+  <Value name="Name20" offset="0x00110768" type="String">Espada</Value>
+</Values>

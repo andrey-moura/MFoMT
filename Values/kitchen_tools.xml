@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Values>
+  <Value name="Tool1" offset="0x00109D2D" type="String">Faca      </Value>
+  <Value name="Tool2" offset="0x00109D39" type="String">Frigideira</Value>
+  <Value name="Tool3" offset="0x00109D45" type="String">Panela    </Value>
+  <Value name="Tool4" offset="0x00109D51" type="String">Misturador</Value>
+  <Value name="Tool5" offset="0x00109D5D" type="String">Batedeira </Value>
+  <Value name="Tool6" offset="0x00109D69" type="String">Rolo       </Value>
+  <Value name="Tool7" offset="0x00109D75" type="String">Forno     </Value>
+  <Value name="Tool8" offset="0x00109D81" type="String">Açúcar    </Value>
+  <Value name="Tool9" offset="0x00109D8D" type="String">Sal       </Value>
+  <Value name="Tool10" offset="0x00109D99" type="String">Vinagre   </Value>
+  <Value name="Tool11" offset="0x00109DA5" type="String">Molho de Soja</Value>
+  <Value name="Tool12" offset="0x00109DB1" type="String">Miso      </Value>
+</Values>

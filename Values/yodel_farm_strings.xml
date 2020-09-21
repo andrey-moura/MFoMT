@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Values>
+  <Value name="Pointer1" offset="0x001088D0" type="Word">0x089D98E9</Value>
+  <Value name="Pointer2" offset="0x001088E4" type="Word">0x089D98F7</Value>
+  <Value name="Pointer3" offset="0x00108948" type="Word">0x089D9907</Value>
+  <Value name="Pointer4" offset="0x0010895C" type="Word">0x089D9914</Value>
+  <Value name="String1" offset="0x009D98E9" type="String">Comprar Vacas</Value>
+  <Value name="String2" offset="0x009D98F7" type="String">Comprar Ovelhas</Value>
+  <Value name="String3" offset="0x009D9907" type="String">Vender Vacas</Value>
+  <Value name="String4" offset="0x009D9914" type="String">Vender Ovelhas</Value>
+</Values>

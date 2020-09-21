@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Values>
+  <Value name="String1" offset="0x0010981A" type="String">2º: Péssima     </Value>
+  <Value name="String2" offset="0x00109837" type="String">2º: Muito Pior </Value>
+  <Value name="String3" offset="0x00109854" type="String">2º: Bem Pior     </Value>
+  <Value name="String4" offset="0x00109871" type="String">2º: Pouco Pior   </Value>
+  <Value name="String5" offset="0x0010988E" type="String">2º: Igual    </Value>
+  <Value name="String6" offset="0x001098AB" type="String">2º: Pouco Melhor</Value>
+  <Value name="String7" offset="0x001098C8" type="String">2º: Bem Melhor </Value>
+  <Value name="String8" offset="0x001098E5" type="String">2º: Muito Melhor</Value>
+  <Value name="String9" offset="0x00109902" type="String">2º: Excelente  </Value>
+  <Value name="String10" offset="0x0010991F" type="String">1º: Também Péssima   </Value>
+  <Value name="String11" offset="0x0010993C" type="String">1º: Péssima     </Value>
+  <Value name="String12" offset="0x00109959" type="String">1º: Também Pior     </Value>
+  <Value name="String13" offset="0x00109976" type="String">1º: Muito Pior </Value>
+  <Value name="String14" offset="0x00109993" type="String">1º: Também Pior       </Value>
+  <Value name="String15" offset="0x001099B0" type="String">1º: Bem Pior     </Value>
+  <Value name="String16" offset="0x001099CD" type="String">1º: Também Pior       </Value>
+  <Value name="String17" offset="0x001099EA" type="String">1º: Pouco Pior   </Value>
+  <Value name="String18" offset="0x00109A07" type="String">1º: Também Igual  </Value>
+  <Value name="String19" offset="0x00109A24" type="String">1º: Igual    </Value>
+  <Value name="String20" offset="0x00109A41" type="String">1º: Também Pior     </Value>
+  <Value name="String21" offset="0x00109A5E" type="String">1º: Muito Melhor</Value>
+  <Value name="String22" offset="0x00109A7B" type="String">1º: Também Melhor   </Value>
+  <Value name="String23" offset="0x00109A98" type="String">1º: Bem Melhor </Value>
+  <Value name="String24" offset="0x00109AB5" type="String">1º: Também Melhor </Value>
+  <Value name="String25" offset="0x00109AD2" type="String">1º: Muito Melhor</Value>
+  <Value name="String26" offset="0x00109AEF" type="String">1º: Também Melhor  </Value>
+  <Value name="String27" offset="0x00109B0C" type="String">1º: Excelente  </Value>
+</Values>

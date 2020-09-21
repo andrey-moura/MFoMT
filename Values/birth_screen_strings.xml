@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Values>
+  <Value name="Value" offset="0x00104978" type="Char">P</Value>
+  <Value name="Value" offset="0x0010497A" type="Char">R</Value>
+  <Value name="Value" offset="0x0010497C" type="Char">I</Value>
+  <Value name="Value" offset="0x0010497E" type="Char">0x20</Value>
+  <Value name="Value" offset="0x00104980" type="Char">0x20</Value>
+  <Value name="Value" offset="0x00104982" type="Char">0x20</Value>
+  <Value name="Value" offset="0x00104984" type="Char">V</Value>
+  <Value name="Value" offset="0x00104986" type="Char">E</Value>
+  <Value name="Value" offset="0x00104988" type="Char">R</Value>
+  <Value name="Value" offset="0x0010498A" type="Char">0x20</Value>
+  <Value name="Value" offset="0x0010498C" type="Char">0x20</Value>
+  <Value name="Value" offset="0x0010498E" type="Char">0x20</Value>
+  <Value name="Value" offset="0x00104990" type="Char">O</Value>
+  <Value name="Value" offset="0x00104992" type="Char">U</Value>
+  <Value name="Value" offset="0x00104994" type="Char">T</Value>
+  <Value name="Value" offset="0x00104996" type="Char">0x20</Value>
+  <Value name="Value" offset="0x0010499C" type="Char">I</Value>
+  <Value name="Value" offset="0x0010499E" type="Char">N</Value>
+  <Value name="Value" offset="0x001049A0" type="Char">V</Value>
+  <Value name="Value" offset="0x001049A2" type="Char">0x20</Value>
+  <Value name="Value" offset="0x001049A4" type="Char">0x20</Value>
+  <Value name="Value" offset="0x001049A6" type="Char">0x20</Value>
+  <Value name="Value" offset="0x001049AA" type="Char">N</Value>
+  <Value name="Value" offset="0x001049AC" type="Char">A</Value>
+  <Value name="Value" offset="0x001049AE" type="Char">S</Value>
+  <Value name="Value" offset="0x001049B0" type="Char">C</Value>
+  <Value name="Value" offset="0x001049B2" type="Char">E</Value>
+  <Value name="Value" offset="0x001049B4" type="Char">U</Value>
+  <Value name="Value" offset="0x001049B6" type="Char">:</Value>
+  <Value name="Value" offset="0x001049B8" type="Char">0x20</Value>
+</Values>

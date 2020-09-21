@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Values>
+  <Value name="Pointer1" offset="0x001066E4" type="Word">0x08FFFFDF</Value>
+  <Value name="Pointer2" offset="0x001066F8" type="Word">0x08FFFFF0</Value>
+  <Value name="String1" offset="0x00FFFFDF" type="String">Comprar Galinhas</Value>
+  <Value name="String2" offset="0x00FFFFF0" type="String">Vender Galinhas</Value>
+</Values>
